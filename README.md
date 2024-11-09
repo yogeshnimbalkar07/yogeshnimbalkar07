@@ -1,36 +1,22 @@
-# Hi there, I'm Yogesh Nimbalkar 👋
+# Hi there 👋, I'm Yogesh Ankush Nimbalkar!
 
-🌐 **AWS DevOps Engineer | Cloud Infrastructure & Software Development Specialist**
+## 🚀 About Me
+I'm an AWS DevOps Engineer with experience in cloud infrastructure, CI/CD automation, and application deployment. I bring over 6 years of expertise in website design and software development, and I’m passionate about building scalable and secure cloud solutions.
 
-Welcome to my GitHub profile! I'm a passionate and results-driven engineer specializing in cloud infrastructure, CI/CD automation, and software development. With expertise in AWS services and modern DevOps tools, I focus on building scalable, secure, and efficient cloud environments.
+- 🔧 Technologies: AWS (EC2, S3, VPC, IAM, CloudWatch), Docker, Terraform, GitHub Actions, Jenkins
+- 🌐 Web Technologies: HTML, CSS, JavaScript, WordPress
+- 🎨 CMS Tools: Beaver Builder, Elementor, Divi, Figma
+- 📈 Experience in designing responsive websites, optimizing performance, and deploying applications in cloud environments.
 
----
+## 🔭 Current Projects
+- **[AWS Infrastructure with Terraform](link-to-your-repo)**: Automating cloud infrastructure with reusable Terraform modules.
+- **[NestJS Hello World on AWS](link-to-your-repo)**: CI/CD pipeline for NestJS app using GitHub Actions.
 
-### 🛠 **Technical Skills**
-- **Cloud Services**: AWS (EC2, S3, VPC, IAM, CloudWatch, ECS)
-- **DevOps Tools**: Jenkins, GitHub Actions, Docker, Terraform, Git
-- **Programming**: Java, Spring Boot, HTML, CSS, JavaScript, Node.js
-- **Frameworks & Libraries**: React, Angular, .NET, AngularJS
-- **Web Technologies**: WordPress, WooCommerce, HTML, CSS, JavaScript
+## 🏆 Certifications and Awards
+- **AWS Certified Solutions Architect – Associate** (Course completion)
+- **Top 10 Sites** from GoDaddy
+- **Consistency is the Key** and **Quality Champ** awards at AffinityX
 
----
-
-### 🚀 **Projects**
-Here are some projects that showcase my experience and skills:
-- **AWS Infrastructure Management**: Managed EC2, S3, and IAM services to build secure, scalable infrastructure.
-- **CI/CD Automation**: Set up CI/CD pipelines using Jenkins and GitHub Actions for seamless and efficient deployment.
-- **Containerized Applications**: Deployed applications using Docker and AWS ECS with foundational Kubernetes knowledge.
-
----
-
-### 📚 **Learning & Certifications**
-- **AWS Certified Solutions Architect - Associate** (Tech Bodhi Solutions)
-- Continuing to enhance my skills in cloud infrastructure and DevOps automation.
-
----
-
-### 📫 **Connect with Me**
-- **LinkedIn**: [Yogesh Nimbalkar](https://www.linkedin.com/in/yogeshnimbalkar)
-- **Email**: yogesh.nimbalkar07@gmail.com
-
-Let’s connect and collaborate on cloud and DevOps projects!
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yogesh-nimbalkar)  
+- [Email](mailto:yogesh.nimbalkar07@gmail.com)
