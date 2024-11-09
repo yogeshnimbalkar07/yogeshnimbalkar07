@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Yogesh Nimbalkar 👋
 
-<!--
-**yogeshnimbalkar07/yogeshnimbalkar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **AWS DevOps Engineer | Cloud Infrastructure & Software Development Specialist**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate and results-driven engineer specializing in cloud infrastructure, CI/CD automation, and software development. With expertise in AWS services and modern DevOps tools, I focus on building scalable, secure, and efficient cloud environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 **Technical Skills**
+- **Cloud Services**: AWS (EC2, S3, VPC, IAM, CloudWatch, ECS)
+- **DevOps Tools**: Jenkins, GitHub Actions, Docker, Terraform, Git
+- **Programming**: Java, Spring Boot, HTML, CSS, JavaScript, Node.js
+- **Frameworks & Libraries**: React, Angular, .NET, AngularJS
+- **Web Technologies**: WordPress, WooCommerce, HTML, CSS, JavaScript
+
+---
+
+### 🚀 **Projects**
+Here are some projects that showcase my experience and skills:
+- **AWS Infrastructure Management**: Managed EC2, S3, and IAM services to build secure, scalable infrastructure.
+- **CI/CD Automation**: Set up CI/CD pipelines using Jenkins and GitHub Actions for seamless and efficient deployment.
+- **Containerized Applications**: Deployed applications using Docker and AWS ECS with foundational Kubernetes knowledge.
+
+---
+
+### 📚 **Learning & Certifications**
+- **AWS Certified Solutions Architect - Associate** (Tech Bodhi Solutions)
+- Continuing to enhance my skills in cloud infrastructure and DevOps automation.
+
+---
+
+### 📫 **Connect with Me**
+- **LinkedIn**: [Yogesh Nimbalkar](https://www.linkedin.com/in/yogeshnimbalkar)
+- **Email**: yogesh.nimbalkar07@gmail.com
+
+Let’s connect and collaborate on cloud and DevOps projects!
